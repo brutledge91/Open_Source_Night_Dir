@@ -1,2 +1,0 @@
-This is my not quite first sentence in git.
-This is another sentence.
